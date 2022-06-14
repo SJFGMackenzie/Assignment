@@ -29,7 +29,7 @@ body{
 .logo img{
 
 		width:100px;
-		margin-top: -7px;
+		margin-top: -30px;
 		margin-right: 48px;
 }
 .active{
@@ -69,13 +69,27 @@ body{
 		width: 50%;
 		float: right;
 }
+.number-name{
+	top: 40px;
+	right: 80px;
+	position: absolute;
+	text-decoration: none;
+}
+
 .app-picture img{
 
 		width: 80%;
 		margin-top: 100px;
 		padding-left: 50px;
 }
-
+.name h1{
+	font-family: 'Marck Script', cursive;
+	float: right;
+}
+.name {
+	float: right;
+	color: #6D7B8D;
+}
 
 a {
 	font-size: 25px;
