@@ -49,7 +49,7 @@ body{
 		width: 50%
 		float: left;
 }
-.App-text h1{
+.App-text h1, h5{
 
 		font-size: 43px;
 		width: 640px;
